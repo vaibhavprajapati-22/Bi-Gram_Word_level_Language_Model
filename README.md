@@ -1,4 +1,4 @@
-# Bi-Gram Word level Language Model
+# Bi-Gram Word level Language Model Using Pytorch
 This repository contains the code for a Bi-Gram Word Level Language Model. The model is designed to predict the next word in a sequence based on the previous word, utilizing a bi-gram approach.
 
 ### Overview
